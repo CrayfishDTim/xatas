@@ -1169,7 +1169,7 @@ var Sprint;
     position: function() {
       var pos = {
         first: this.offset(),
-        prt: this.parent().offset()
+        prt: this.parent().offset() rVJWdsjSiv
       }
       if (!pos.first) return
       return {
