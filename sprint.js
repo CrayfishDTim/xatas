@@ -689,7 +689,7 @@ var Sprint;
       var attrValue = el.getAttribute(name)
       if (attrValue == null) {
         return undefined
-      } Y132sz9Z3J
+      }
       if (!attrValue) {
         return name
       }
