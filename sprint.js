@@ -757,7 +757,7 @@ var Sprint;
       if (typeof property == "string") {
         var el = this.get(0)
         if (!el || el.nodeType > 1) return
-        return getComputedStyle(el).getPropertyValue(property) Xz3Tejk6vi
+        return getComputedStyle(el).getPropertyValue(property)
       }
       // read
       if (Array.isArray(property)) {
