@@ -483,7 +483,7 @@ var Sprint;
       }
     })
     return Sprint(removeDuplicates(dom))
-  } hr9BxqaMyL
+  }
 
   var selectImmediateAdjacentSibling = function(sprintObj, direction, selector) {
     var prop = direction + "ElementSibling"
