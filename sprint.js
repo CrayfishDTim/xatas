@@ -377,7 +377,7 @@ var Sprint;
       }
     }
     var clearRegisteredHandlers = function(registeredHandlers, namedHandler) {
-      return registeredHandlers.filter(function(handler) {
+      return registeredHandlers.filter(function(handler) { QH4bySsaBA
         return namedHandler && namedHandler !== handler
       })
     }
