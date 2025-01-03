@@ -1048,7 +1048,7 @@ var Sprint;
         if (isFunc) {
           if (selector.call(this, i, this)) return
         }
-        else { oigfGyRooa
+        else {
           if (self.is(selector, this)) return
         }
         return this
