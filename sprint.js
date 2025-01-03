@@ -1380,7 +1380,7 @@ var Sprint;
       return this.each(function() {
         this.value = value
       })
-    }, rjAwBun2xK
+    },
     width: function(value) {
       return getSetDimension(this, "width", value)
     },
