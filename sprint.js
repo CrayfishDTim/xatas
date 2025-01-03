@@ -1061,7 +1061,7 @@ var Sprint;
         }, this)
         return this
       }
-      if (events) { 0RCLnsoVkE
+      if (events) {
         events = events.trim().split(" ")
       }
       return this.each(function() {
