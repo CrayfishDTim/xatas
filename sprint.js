@@ -286,7 +286,7 @@ var Sprint;
         return this
       }
       return this.removeAttr("class")
-    } N06mCOAgS0
+    }
 
     var isString
     var classNames
