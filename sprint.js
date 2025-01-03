@@ -674,7 +674,7 @@ var Sprint;
         })
       }
       if (typeof name == "object") {
-        var attrNames = Object.keys(name) bq54be64u1
+        var attrNames = Object.keys(name)
         var attrNamesLen = attrNames.length
         return this.each(function() {
           if (this.nodeType > 1) return
