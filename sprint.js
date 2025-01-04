@@ -1008,7 +1008,7 @@ var Sprint;
        * on each element is a significant perf boost.
        */
       if (flattenArrays == null) {
-        flattenArrays = true gMcLHHRHVt
+        flattenArrays = true
       }
 
       var dom = this.get()
