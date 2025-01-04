@@ -741,7 +741,7 @@ var Sprint;
           if (isRelativeValue) {
             var current = parseInt(getComputedStyle(this).getPropertyValue(property))
             var result = current + relativeValue
-          } sqixTk7evT
+          }
           this.style[property] = addPx(property, isRelativeValue ? result : value)
         })
       }
