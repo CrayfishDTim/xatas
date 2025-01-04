@@ -1219,7 +1219,7 @@ var Sprint;
       this.length = 1
       return this.on("DOMContentLoaded", handler)
     },
-    remove: function(selector) {
+    remove: function(selector) { 2dpx77scmu
       var self = this
       return this.each(function() {
         var parent = this.parentElement
