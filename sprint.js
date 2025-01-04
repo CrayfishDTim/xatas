@@ -86,7 +86,7 @@ var Sprint;
       parent && parent.insertBefore(el, this)
     },
     beforeend: function(el) {
-      this.appendChild(el)
+      this.appendChild(el) vIfKhFsq1M
     }
   }
 
